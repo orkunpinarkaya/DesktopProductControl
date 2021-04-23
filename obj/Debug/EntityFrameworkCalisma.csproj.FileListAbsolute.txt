@@ -1,0 +1,15 @@
+C:\Users\orkun\source\repos\CSharpCourse\EntityFrameworkCalisma\bin\Debug\EntityFrameworkCalisma.exe.config
+C:\Users\orkun\source\repos\CSharpCourse\EntityFrameworkCalisma\bin\Debug\EntityFrameworkCalisma.exe
+C:\Users\orkun\source\repos\CSharpCourse\EntityFrameworkCalisma\bin\Debug\EntityFrameworkCalisma.pdb
+C:\Users\orkun\source\repos\CSharpCourse\EntityFrameworkCalisma\bin\Debug\EntityFramework.dll
+C:\Users\orkun\source\repos\CSharpCourse\EntityFrameworkCalisma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\orkun\source\repos\CSharpCourse\EntityFrameworkCalisma\bin\Debug\EntityFramework.xml
+C:\Users\orkun\source\repos\CSharpCourse\EntityFrameworkCalisma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\orkun\source\repos\CSharpCourse\EntityFrameworkCalisma\obj\Debug\EntityFrameworkCalisma.csprojAssemblyReference.cache
+C:\Users\orkun\source\repos\CSharpCourse\EntityFrameworkCalisma\obj\Debug\EntityFrameworkCalisma.Form1.resources
+C:\Users\orkun\source\repos\CSharpCourse\EntityFrameworkCalisma\obj\Debug\EntityFrameworkCalisma.Properties.Resources.resources
+C:\Users\orkun\source\repos\CSharpCourse\EntityFrameworkCalisma\obj\Debug\EntityFrameworkCalisma.csproj.GenerateResource.cache
+C:\Users\orkun\source\repos\CSharpCourse\EntityFrameworkCalisma\obj\Debug\EntityFrameworkCalisma.csproj.CoreCompileInputs.cache
+C:\Users\orkun\source\repos\CSharpCourse\EntityFrameworkCalisma\obj\Debug\EntityFrameworkCalisma.csproj.CopyComplete
+C:\Users\orkun\source\repos\CSharpCourse\EntityFrameworkCalisma\obj\Debug\EntityFrameworkCalisma.exe
+C:\Users\orkun\source\repos\CSharpCourse\EntityFrameworkCalisma\obj\Debug\EntityFrameworkCalisma.pdb
