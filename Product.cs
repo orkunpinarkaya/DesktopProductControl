@@ -13,7 +13,7 @@ namespace EntityFrameworkCalisma
         public decimal UnitPrice { get; set; }
         public int StockAmount { get; set; }
 
-        public int sa { get; set; }
+      
 
     }
 }
